@@ -1,0 +1,30 @@
+University Cafeteria Information
+
+Welcome to the Greenfield University Cafeteria!  
+Our cafeteria provides a wide range of healthy, affordable, and delicious meals for students, staff, and visitors.
+
+📍 Location:
+The cafeteria is located inside the Student Center Building, Ground Floor.
+
+🕒 Operating Hours:
+- Monday to Friday: 7:30 AM – 8:00 PM
+- Saturday: 9:00 AM – 6:00 PM
+- Sunday: Closed
+
+🍴 Daily Menu Highlights:
+- Breakfast: Pancakes, omelets, cereals, fresh fruit, and coffee.
+- Lunch: Grilled chicken bowls, veggie wraps, pasta, and salads.
+- Dinner: Pizza night specials, soups, rice bowls, and sandwiches.
+- Snacks & Drinks: Smoothies, protein bars, cookies, sodas, and fresh juices.
+
+💳 Payment:
+- Accepts Student ID card (meal plan), credit/debit cards, and cash.
+- Weekly meal plans start at $45 and include 15 meals.
+
+⚡ Special Notes:
+- Vegetarian and vegan options are available every day.
+- Gluten-free meals are marked with a green label.
+- All ingredients are sourced from local farms whenever possible.
+
+Contact:
+For catering or large orders, email cafeteria@greenfielduniv.edu or call (555) 123-9876.
